@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+name: Settler Recruitment Beacon
+description: Better settler recruitment for Sim Settlements
+author: Mabinogi
+author_home: https://github.com/TheMabinogi
+location: https://github.com/TheMabinogi/Settler-Recruitment-Beacon
+custom_wiki: false
+custom_release: false
